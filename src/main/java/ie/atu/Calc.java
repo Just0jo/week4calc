@@ -3,9 +3,9 @@ package ie.atu;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class calc2022
+public class Calc
 {
-    public static void main(String[] args);
+    public static void main(String[] args)
     {
         subtract();
     }
