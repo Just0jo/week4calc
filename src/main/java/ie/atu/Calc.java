@@ -1,5 +1,6 @@
 package ie.atu;
 
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
@@ -21,6 +22,7 @@ public class Calc
         int total = firstNumber - SecondNumber;
         System.out.println("The total is " + total);
     }
+
 
 
 
